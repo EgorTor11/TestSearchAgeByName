@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="undo_note_editing">undo note editing</string>
+    <string name="want_to_undo_editing_note">want to undo editing a note?</string>
+    <string name="ok">Ok</string>
+    <string name="no">No</string>
+    <string name="not_name_toast">Нет такого имени. Введите имя латиницей</string>
+    <string name="error_toast">Упс, что-то пошло не так,повторите попытку</string>
+    <string name="enter_name_hint">Введите имя для предсказания возраста</string>
+    <string name="search_hint">поиск</string>
+    <string name="navigation_text_main">Главная</string>
+    <string name="navigation_text_selected">Избранное</string>
+</resources>
